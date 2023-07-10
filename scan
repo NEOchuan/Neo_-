@@ -1,0 +1,52 @@
+[*]HOST: 192.168.3.30
+[*]Status: up
+无法检测到操作系统信息
+[*]Port: 21 状态: open
+[*]Service: ftp
+[*]Version: 
+
+[*]Port: 22 状态: open
+[*]Service: ssh
+[*]Version: 
+
+[*]Port: 80 状态: open
+[*]Service: http
+[*]Version: 
+
+[*]Port: 111 状态: open
+[*]Service: rpcbind
+[*]Version: 
+
+[*]Port: 139 状态: open
+[*]Service: netbios-ssn
+[*]Version: 
+
+[*]Port: 445 状态: open
+[*]Service: microsoft-ds
+[*]Version: 
+
+[*]Port: 2049 状态: open
+[*]Service: nfs
+[*]Version: 
+
+[*]Port: 3306 状态: open
+[*]Service: mysql
+[*]Version: 
+
+[*]Port: 5357 状态: open
+[*]Service: wsdapi
+[*]Version: 
+
+[*]Port: 8000 状态: open
+[*]Service: http-alt
+[*]Version: 
+
+[*]Port: 8001 状态: open
+[*]Service: vcom-tunnel
+[*]Version: 
+
+[*]Port: 8200 状态: open
+[*]Service: trivnet1
+[*]Version: 
+
+
